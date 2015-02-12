@@ -1,34 +1,23 @@
 {
-	"friends": [
+	"questions": [
 		{
-			"name": "Doug Engelbart",
-			"description": "Has awesome pet mice",
-			"imageURL": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Douglas_Engelbart_in_2008.jpg/972px-Douglas_Engelbart_in_2008.jpg"			
+			"serial": "q1",
+			"qq": "How many people",
+			"opt1": img"https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0CAcQjRw&url=https%3A%2F%2Ffilmgrouphaber.wordpress.com%2F&ei=NAXcVITAPMOtogSX5YGoCw&bvm=bv.85970519,d.cGU&psig=AFQjCNGB4dy84spb_ZeBSq99Ig350_0Klg&ust=1423791800850168",
+			"opt2": "solo",
+			"opt3": "two",
+			
 		},
 		{
-			"name": "Ivan Sutherland",
-			"description": "Great at sketching",
-			"imageURL": "http://upload.wikimedia.org/wikipedia/commons/5/5c/Ivan_Sutherland_at_CHM.jpg"			
-		},
+			"serial": "q2",
+			"qq": "How many people",
+			"pos": "solo"
+		}
+	
 		{
-			"name": "Lucy Suchman",
-			"description": "Loves Trukese navigators",
-			"imageURL": "http://upload.wikimedia.org/wikipedia/commons/d/df/Lucy_Suchman.jpeg"			
-		},
-		{
-			"name": "Vannevar Bush",
-			"description": "Has stellar associative memory",
-			"imageURL": "http://upload.wikimedia.org/wikipedia/commons/e/ea/Vannevar_Bush_portrait.jpg"			
-		},
-		{
-			"name": "Grace Hopper",
-			"description": "Only friend with a Navy ship named after them",
-			"imageURL": "http://www.personal.psu.edu/djd5202/gHop.jpg"
-		},
-		{
-			"name": "Allen Newell",
-			"description": "Really into psychology",
-			"imageURL": "http://www.nap.edu/html/biomems/photo/anewell.JPG"
+			"serial": "q3",
+			"qq": "How many people",
+			"pos": "solo"
 		}
 	]
 }
