@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <script>
+      function goBack() {
+        window.history.back()
+      }
+    </script>
+  <title>groupies</title>
+  <link rel="stylesheet" type="text/css" href="./bubbles.css">
+</head>
+<body>
+    <div> <h1>iLike</h1> 
+      <p>
+    <a href="wait.html">LogOut</a>
+      </p> 
+    </div>
+<p STYLE="WIDTH:100%;" align="center"> <font size="42">How big is your group?</font> </p>
+{{#each questions}}
+  <div id="bubble1"><a href="end.html">
+  	<img STYLE="WIDTH:30%;" src="bubble3.png" >
+  	</a></div>
+  	  <div class="bubble3"><a href="end.html">
+  	<img STYLE="WIDTH:30%; " src="bubble3.png">
+  	</a></div>
+  	<div class="bubble3"  ><a href="profile.html">
+  	<img STYLE="WIDTH:30%;" src="bubble3.png">
+  	</a></div>
+  </a></div>
+  {{/each}}
+
+
+
+  <div class="navigation">
+    <ul id="menu">
+      <li><a onclick="goBack()">Go Back</a><li>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="profile.html">Profile</a></li>
+      <li><a href="wait.html">Settings</a></li>
+    </ul> 
+  </div>
+</body>
+
+
+
+
+</html>

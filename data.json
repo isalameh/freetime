@@ -3,21 +3,21 @@
 		{
 			"serial": "q1",
 			"qq": "How many people",
-			"opt1": img"https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0CAcQjRw&url=https%3A%2F%2Ffilmgrouphaber.wordpress.com%2F&ei=NAXcVITAPMOtogSX5YGoCw&bvm=bv.85970519,d.cGU&psig=AFQjCNGB4dy84spb_ZeBSq99Ig350_0Klg&ust=1423791800850168",
-			"opt2": "solo",
-			"opt3": "two",
+			"opt1": "solo",
+			"opt2": "date",
+			"opt3": "group",
 			
 		},
 		{
-			"serial": "q2",
-			"qq": "How many people",
-			"pos": "solo"
+			
+			"serial": "q1",
+			"qq": "How Much",
+			"opt1": "solo",
+			"opt2": "date",
+			"opt3": "group",
+			
 		}
 	
-		{
-			"serial": "q3",
-			"qq": "How many people",
-			"pos": "solo"
-		}
+		
 	]
 }
